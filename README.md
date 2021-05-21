@@ -1,2 +1,5 @@
-# Intern-Project-Task1.github.io
-Task 1_ Prediction Using Supervised ML (Level - Beginner) by Sivasakthivel R
+Task#1: Prediction Using Supervised ML
+
+Prediction using Supervised ML from the given dataset, and to predict the percentage of a student based on the number of study hours.
+
+Dataset URL: http://bit.ly/w-data
